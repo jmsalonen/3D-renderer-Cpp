@@ -9,3 +9,6 @@ project settings:
 2. Set '</path/to/sfml/>/lib' to your **linker library path**
 
 Copy the SFML .dll files (graphics, window and system) along with the executable. 
+
+## Video
+[![](https://img.youtube.com/vi/uJr_QcF5s-M/0.jpg)](https://www.youtube.com/watch?v=uJr_QcF5s-M)
